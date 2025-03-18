@@ -10,7 +10,6 @@ struct KEDAI{
 	double diskon;
 	int inginDiskon;
 	double totalHarga;
-
 };
 const int hargaAyamGoreng = 17000;
 const int hargaAyamBakar = 21000;
